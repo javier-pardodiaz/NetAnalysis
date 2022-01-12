@@ -1,2 +1,2 @@
 # NetAnalysis
-Extracting information from gene coexpressionnetworks ofRhizobium leguminosarum - Code and data
+Extracting information from gene coexpressionnetworks of Rhizobium leguminosarum - Code and data
