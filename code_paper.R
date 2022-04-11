@@ -12,7 +12,7 @@ require(plot.matrix)
 library(zoo)
 library(preprocessCore)
 
-load("colour_paletter.RData")
+load("colour_palette.RData")
 
 
 # CODE TO OBTAIN A MAPPING MATRIX INDICATING THE COMMUNITY TO WHICH EACH GENE BELONGS AT EACH OF THE STUDIED PARTITIONS.
